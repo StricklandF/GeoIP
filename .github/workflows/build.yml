@@ -53,6 +53,11 @@ jobs:
             sha256sum ${name} > ./${name}.sha256sum
           done
 
+      - name: Fetch lists from ripe.net
+        run: |
+          chmod +x asn.sh
+          ./asn.sh
+          
       - name: Download GeoLite2
         env:
           LICENSE_KEY: ${{ secrets.MAXMIND_GEOLITE2_LICENSE }}
