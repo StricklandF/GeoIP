@@ -33,6 +33,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Fetch lists from ripe.net
+        run: |
+          chmod +x asn.sh
+          ./asn.sh
+
       - name: Get GeoLite2
         env:
           LICENSE_KEY: ${{ secrets.MAXMIND_GEOLITE2_LICENSE }}
