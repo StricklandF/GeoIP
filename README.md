@@ -8,7 +8,7 @@ Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项
 
 ### 下载地址
 
-> 适用于 Surge、Quantumult X、Clash。
+> 适用于 Surge、Quantumult X、Clash等。
 
 - [https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb](https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb)
 
