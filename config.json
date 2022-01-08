@@ -57,7 +57,7 @@
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
-        "outputName": "Country-only-cn-private.mmdb",
+        "outputName": "Country.mmdb",
         "wantedList": ["cn"]
       }
     },
