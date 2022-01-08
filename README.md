@@ -1,6 +1,6 @@
 # 简介
 
-Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每周天早上5点自动生成 MaxMind mmdb 格式文件 `Country.mmdb`。
+Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天早上5点自动生成 MaxMind mmdb 格式文件 `Country.mmdb`。
 
 ### MaxMind mmdb 格式文件
 
