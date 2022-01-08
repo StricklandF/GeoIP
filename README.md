@@ -2,12 +2,11 @@
 
 Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天早上5点自动生成 MaxMind mmdb 格式文件 `Country.mmdb`。
 
-### MaxMind mmdb 格式文件
+### 下载地址
 
 > 适用于 Surge、Quantumult X、Clash。
 
-- **Country.mmdb下载地址**：
-  - [https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb](https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb)
+- [https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb](https://raw.githubusercontent.com/unknownTokyo/geoip/release/Country.mmdb)
 
 ## License
 
