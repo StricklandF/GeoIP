@@ -1,6 +1,6 @@
 # 简介
 
-Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天早上5点自动生成 MaxMind mmdb 格式文件 `Country.mmdb`。
+Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天早上5点自动生成 MaxMind mmdb 格式文件`Country.mmdb`，仅包含`中国地区[IPV4](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt)、[IPV6](https://github.com/gaoyifan/china-operator-ip)数据`。
 
 ### 下载地址
 
