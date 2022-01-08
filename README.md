@@ -1,6 +1,6 @@
 # 简介
 
-Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天9点、21点自动生成 MaxMind mmdb 格式文件`Country.mmdb`，仅包含CN地区的IP数据。
+精简版 GeoIP，Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天9点、21点自动生成 MaxMind mmdb 格式文件`Country.mmdb`，仅包含CN地区的IP数据。
 
 > IPV4数据: 来自[Clang.CN](https://ispip.clang.cn/all_cn.txt)、[纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)、[IPIP.net](https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)。
 
