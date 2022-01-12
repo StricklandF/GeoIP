@@ -32,6 +32,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+
+      - name: Fetch lists from ripe.net
+        run: |
+          chmod +x asn.sh
+          ./asn.sh
           
       - name: Get GeoLite2
         env:
