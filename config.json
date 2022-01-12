@@ -78,7 +78,7 @@
       "action": "output",
       "args": {
         "outputName": "Country.mmdb",
-        "wantedList": ["cn"]
+        "wantedList": ["cn", "google", "netflix", "telegram"]
       }
     },
     {
