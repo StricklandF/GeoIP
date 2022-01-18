@@ -38,7 +38,7 @@ jobs:
           chmod +x asn.sh
           ./asn.sh
           
-      - name: Get GeoLite2
+      - name: Get GeoLite
         env:
           LICENSE_KEY: ${{ secrets.MAXMIND_GEOLITE2_LICENSE }}
         run: |
