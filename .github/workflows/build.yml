@@ -1,4 +1,4 @@
-name: Build geoip.dat
+name: Build GEOIP Status
 on:
   workflow_dispatch:
   schedule:
