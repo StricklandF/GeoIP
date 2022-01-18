@@ -2,6 +2,8 @@
 
 精简版 GeoIP，Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天早上7点、晚上7点自动生成 MaxMind mmdb 格式文件`Country.mmdb`，仅包含CN地区的IP数据。
 
+[![Build Status](https://github.com/unknowntokyo/geoip/actions/workflows/build.yml/badge.svg)](https://github.com/unknowntokyo/geoip/actions/workflows/build.yml)
+
 > IPV4数据: 来自[Clang.CN](https://ispip.clang.cn/all_cn.txt)、[纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)、[IPIP.net](https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt)。
 
 > IPV6数据: 来自[Clang.CN](https://ispip.clang.cn/all_cn_ipv6.txt)、[中国运营商IP地址库](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt)。
